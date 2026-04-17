@@ -1,0 +1,14 @@
+# Git files
+.git
+.gitignore
+
+# Render config (not needed in image)
+render.yaml
+
+# Documentation
+README.md
+*.md
+
+# Local dev files
+.env
+.env.local
